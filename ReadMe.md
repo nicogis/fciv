@@ -8,4 +8,8 @@ Algorithms supported:
 	- SHA384
 	- SHA512
 
+[What circumstances would warrant verifying a checksum value?](https://support.esri.com/en/technical-article/000020408)
+
 ![Calculate hashes](images/calculateHashes.png)
+
+ 
